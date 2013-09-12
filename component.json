@@ -1,0 +1,12 @@
+{
+  "name": "array-foreach-shim",
+  "repo": "shallker/array-foreach-shim",
+  "description": "Array.prototype.forEach shim",
+  "version": "0.0.1",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
